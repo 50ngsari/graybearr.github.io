@@ -55,7 +55,7 @@
     "uniqCompNum": 69,
     "versionPublish": "4.12.1",
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/image0-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/reb-studio-small-mint-128x128.png",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
