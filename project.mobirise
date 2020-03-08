@@ -71,7 +71,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "디스코드 봇 리베｜Rebe Bot",
+        "title": "디스코드 봇 리베｜reb studio",
         "meta_descr": "리베는 다양한 기능들이 탑재된 디스코드 대화봇입니다.",
         "header_custom": "",
         "footer_custom": "",
@@ -646,7 +646,7 @@
     "policy.html": {
       "settings": {
         "meta_descr": "",
-        "title": "개인정보취급방침｜Rebe Bot",
+        "title": "개인정보취급방침｜reb studio",
         "order": 1
       },
       "components": [
@@ -776,7 +776,7 @@
     "terms.html": {
       "settings": {
         "meta_descr": "",
-        "title": "봇 이용약관｜Rebe Bot",
+        "title": "봇 이용약관｜reb studio",
         "order": 2
       },
       "components": [
