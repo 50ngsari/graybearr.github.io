@@ -592,7 +592,7 @@
               "hr": {
                 "margin": "1rem 0",
                 "border-color": "#FFF",
-                "opacity": ".3"
+                "opacity": ".2"
               },
               ".social-list": {
                 "padding-left": "0",
