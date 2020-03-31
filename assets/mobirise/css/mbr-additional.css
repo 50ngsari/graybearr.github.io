@@ -876,67 +876,11 @@ section.lazy-placeholder:after {
 }
 .cid-rSCHjKI39P {
   padding-top: 60px;
-  padding-bottom: 0px;
+  padding-bottom: 75px;
   background-color: #ffffff;
 }
 .cid-rSCHjKI39P .mbr-section-subtitle {
   color: #232323;
-}
-.cid-rSCGUukAmh {
-  padding-top: 45px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rSCGUukAmh .list-group-item {
-  padding: .75rem 3.25rem;
-}
-.cid-rSCGUukAmh .plan {
-  word-break: break-word;
-  position: relative;
-  max-width: 300px;
-  padding-right: 0;
-  padding-left: 0;
-  color: #767676;
-}
-.cid-rSCGUukAmh .plan .list-group-item {
-  position: relative;
-  -webkit-justify-content: center;
-  justify-content: center;
-  background-color: transparent;
-  border: 0;
-}
-.cid-rSCGUukAmh .plan .list-group-item::after {
-  position: absolute;
-  bottom: 0;
-  left: 20%;
-  width: 60%;
-  height: 2px;
-  content: "";
-  background-color: #eaeaea;
-}
-.cid-rSCGUukAmh .plan .list-group-item:last-child::after {
-  display: none;
-}
-.cid-rSCGUukAmh .plan.favorite {
-  background-color: #fff;
-  box-shadow: 0 0 60px 0 rgba(0, 0, 0, 0.07);
-}
-.cid-rSCGUukAmh .plan-header {
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-.cid-rSCGUukAmh .price-figure {
-  font-weight: 700;
-  color: #232323;
-}
-.cid-rSCGUukAmh .price-value {
-  font-weight: 700;
-  vertical-align: top;
-}
-@media (max-width: 550px) {
-  .cid-rSCGUukAmh .price-figure {
-    font-size: 4.25rem;
-  }
 }
 .cid-rRj3qY0NYU {
   padding-top: 105px;
