@@ -1,11 +1,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://rebe.prismstudio.xyz/index.html</loc>
+		<loc>https://prismstudio.xyz/policy.html</loc>
 	</url>
 	<url>
-		<loc>https://rebe.prismstudio.xyz/policy.html</loc>
+		<loc>https://prismstudio.xyz/terms.html</loc>
 	</url>
 	<url>
-		<loc>https://rebe.prismstudio.xyz/terms.html</loc>
+		<loc>https://prismstudio.xyz/index.html</loc>
+	</url>
+	<url>
+		<loc>https://prismstudio.xyz/rebe.html</loc>
+	</url>
+	<url>
+		<loc>https://prismstudio.xyz/about.html</loc>
+	</url>
+	<url>
+		<loc>https://prismstudio.xyz/projects.html</loc>
+	</url>
+	<url>
+		<loc>https://prismstudio.xyz/forum.html</loc>
 	</url>
 </urlset>
