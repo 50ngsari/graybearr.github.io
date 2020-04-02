@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PRISM STUDIO",
-    "currentPage": "index.html",
+    "currentPage": "terms.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -21,7 +21,7 @@
         "display5Size": 1.5,
         "display7Font": "Noto Sans KR",
         "display7Size": 1,
-        "display4Font": "Nanum Gothic",
+        "display4Font": "Noto Sans KR",
         "display4Size": "1",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
@@ -3790,7 +3790,7 @@
               "color": "#ffffff"
             },
             "H2": {
-              "text-align": "right"
+              "text-align": "left"
             }
           },
           "_name": "slider1",
@@ -3813,8 +3813,8 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/vscytag-1600x825.jpg",
                 "active": true,
-                "showButtons": false,
-                "showText": true,
+                "showButtons": true,
+                "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3823,11 +3823,11 @@
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
-                "textTitle": "<b>리베</b>",
+                "textTitle": "<b>리베</b><br><b><br></b>",
                 "overlay": true,
-                "contentAlign": "right",
-                "text": "<br><a href=\"rebe.html\">자세히 알아보기</a><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">자세히 알아보기</a> ",
+                "contentAlign": "left",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary-outline\" data-app-placeholder=\"Type Text\" href=\"rebe.html\" data-toolbar=\"-mbrBtnMove\">자세히 알아보기</a> ",
                 "overlayOpacity": "0.3"
               }
             ]

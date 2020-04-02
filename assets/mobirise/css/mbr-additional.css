@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans+KR:100,300,400,500,700,900&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Nanum+Gothic:400,700,800&display=swap);
 
 
 
@@ -24,7 +23,7 @@ body {
   font-size: 4.16rem;
 }
 .display-4 {
-  font-family: 'Nanum Gothic', sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1rem;
   font-display: swap;
 }
@@ -3788,7 +3787,7 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-rUUxmNjwAf H2 {
-  text-align: right;
+  text-align: left;
 }
 .cid-rV0Zpu9FyC .navbar {
   padding: .5rem 0;
