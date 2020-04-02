@@ -4,12 +4,11 @@
 
 
 
-
 body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'Noto Sans KR', sans-serif;
+  font-family: 'uni_sans_heavy';
   font-size: 4rem;
   font-display: swap;
 }
